@@ -8,6 +8,8 @@ This project is a **real-time Sign Language Recognition system** that translates
 <img width="646" height="509" alt="image" src="https://github.com/user-attachments/assets/8a6c107b-727e-4cae-b8e0-0495d2fbb659" />
 
 
+https://github.com/user-attachments/assets/8ed000db-6ae9-46f6-aec8-5cf1027b59c0
+
 ---
 
 ## 🚀 Features
